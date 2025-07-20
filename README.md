@@ -24,7 +24,7 @@ As métricas são calculadas a partir da matriz de confusão com os valores:
 As fórmulas são:
 
 - **Acurácia** = (VP + VN) / (VP + VN + FP + FN)  
-- **Sensibilidade (Recall)** = VP / (VP + FN)  
+- **Sensibilidade** = VP / (VP + FN)  
 - **Especificidade** = VN / (VN + FP)  
 - **Precisão** = VP / (VP + FP)  
 - **F-Score** = 2 × (Precisão × Sensibilidade) / (Precisão + Sensibilidade)
