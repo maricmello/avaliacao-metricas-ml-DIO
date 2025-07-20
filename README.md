@@ -3,7 +3,7 @@
 Este projeto tem como objetivo implementar, de forma manual, as principais **métricas de avaliação** utilizadas em modelos de classificação supervisionada, como:
 
 - ✅ Acurácia
-- 📈 Sensibilidade (Recall)
+- 📈 Sensibilidade
 - 📉 Especificidade
 - 🎯 Precisão
 - 📊 F-Score
